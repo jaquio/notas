@@ -3,3 +3,6 @@ Anic
 estil
 laika
 luisi
+super
+lince
+monos
